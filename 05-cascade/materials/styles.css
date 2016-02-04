@@ -41,3 +41,44 @@ table {
 	background: #E9F5FE;
 }
 
+body {
+  color: #B1967C;
+  font-family: "Palatino Linotype", Baskerville, serif;
+  padding-top: 100px;
+  background: #CDE6FF url(images/bg_body.png) repeat-x;
+  width: 800px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 3em;
+  font-family: "Arial Black", Arial, sans-serif;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 2.2em;
+  color: #AFC3D6;
+  margin-bottom: 5px;
+  padding: 0 0 2px 80px;
+}
+
+.main h2 {
+	color: #E8A064;
+	border-bottom: 2px white solid;
+	background: url(images/bullet_flower.png) no-repeat;
+}
+
+.main p {
+	color: #616161;
+	font-size: 1.1em;
+	margin-bottom: 10px;
+	margin-left: 80px;
+}
+
+p.intro {
+	color: #6A94CC;
+	font-size: 1.2em;
+	margin-left: 0;
+	font-family: Arial, sans-serif;
+}
